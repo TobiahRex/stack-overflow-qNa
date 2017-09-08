@@ -11,4 +11,4 @@ Full-Stack expiremental environment for Ask & Answering stack overflow questions
   NOTE: I Highly recommend running `yarn upgrade || npm update --save` to update package json before running `yarn start || npm start` or `yarn build || npm build`.
 
 ## Answers:
-  - [AWS Lambda [Node.js 4.3] - Strange Stack Trace](https://stackoverflow.com/questions/46078215/aws-lambda-node-js-4-3-strange-stack-trace#)
+  - [aws-lambda-es6-error](https://stackoverflow.com/questions/46078215/aws-lambda-node-js-4-3-strange-stack-trace#)
